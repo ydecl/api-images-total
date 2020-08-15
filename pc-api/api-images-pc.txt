@@ -1,0 +1,6 @@
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc2.jpg
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc3.jpg
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc4.jpg
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc5.jpg
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc6.jpg
+https://cdn.jsdelivr.net/gh/ydecl/api-images-total@master/images/pc7.jpg
